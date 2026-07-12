@@ -8,19 +8,12 @@ The Salary Analysis Dashboard is an interactive Power BI project designed to ana
 🚀 Features
 
 📊 Interactive KPI Cards
-
 📈 Salary Trend Analysis
-
 🌍 Geographic Salary Distribution
-
 📉 Scatter Plot Analysis
-
 🌳 Treemap Visualization
-
 🐍 Python Visual Integration
-
 🔍 Dynamic Filtering & Slicers
-
 📋 Business-Oriented Dashboard Design
 
 🛠️ Tools & Technologies
